@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "build": "cross-env NODE_ENV=development node_modules/tailwindcss/lib/cli.js build ./src/styles.css -c ./tailwind.js -o ./dist/styles.css"
+        "build": "cross-env NODE_ENV=development node_modules/tailwindcss/lib/cli.js build ./src/styles.css -c ./tailwind.js -o ./src/dist/styles.css"
     },
     "devDependencies": {
         "color": "^3.0.0",

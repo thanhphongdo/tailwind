@@ -1,4 +1,4 @@
-@tailwind preflight;
+/* @tailwind preflight;
 
 @tailwind components;
 
@@ -7,6 +7,6 @@
 }
 .grid > *:nth-child(even) {
     @apply .bg-grey;
-}
+} */
 
 @tailwind utilities;
